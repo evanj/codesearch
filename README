@@ -1,3 +1,6 @@
+Forked to add a patch for: https://github.com/evanj/csearch
+
+
 Code Search is a tool for indexing and then performing
 regular expression searches over large bodies of source code.
 It is a set of command-line programs written in Go.
